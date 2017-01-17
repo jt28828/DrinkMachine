@@ -1,0 +1,5 @@
+.GridPane {
+    -fx-padding: 0;
+    -fx-border-width: 0;
+    -fx-background-color: derive(-fx-base, +20%);
+}
